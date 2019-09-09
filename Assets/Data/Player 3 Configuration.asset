@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53d0ebdb2dfe4664e9d46f12914a680b, type: 3}
+  m_Name: Player 3 Configuration
+  m_EditorClassIdentifier: 
+  rewiredPlayerID: 2
+  leftKey: 0
+  rightKey: 0
+  pushKey: 0
+  speed: 8
+  pushSpeed: 30
+  pushChargePerCollision: 0.35
+  recoveryTime: 0.35
+  deathParticleSystem: {fileID: 4479916784342559948, guid: 53be9fa15e626f745b54d102762107f4,
+    type: 3}
